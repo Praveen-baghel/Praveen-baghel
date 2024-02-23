@@ -1,3 +1,4 @@
+![logo](https://wallpapers.com/images/hd/technology-linkedin-background-dce01jsbpnn0z2ej.jpg)
 <h1 align="center">Hi 👋, I'm Praveen Baghel</h1>
 <h3 align="center">An SDE Intern @Otipy and currently focusing on backend.</h3>
 <img align="right" alt="code" width="300" src="https://media2.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif"></img>
