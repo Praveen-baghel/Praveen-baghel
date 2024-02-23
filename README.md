@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen Baghel</h1>
 <h3 align="center">An SDE Intern @Otipy and currently focusing on backend.</h3>
-<img align="right" alt="code" width="400" scr="https://media2.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
+<img align="right" alt="code" width="300" src="https://media2.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-baghel&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-baghel" /> </p>
 
@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-baghel&show_icons=true&locale=en" alt="praveen-baghel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-baghel&" alt="praveen-baghel" /></p>
-
-
